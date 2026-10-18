@@ -80,10 +80,10 @@ Turns images into ASCII art, in color or mono, entirely in your browser.<br>
 
 <table><tr><td>
 <img src="assets/spacer.png" width="2000" height="1" align="right" alt="">
-<img src="assets/icons/monsoon-tall.png" width="64" align="left" alt="">
+<img src="assets/icons/monsoon.svg" width="64" height="64" align="left" alt="">
 <b>Monsoon</b> · 2026<br>
 A self-hosted media server: one Docker image that builds its own AWS streaming stack.<br>
-<img src="assets/tech/rust.svg" width="20" height="20" align="absmiddle" alt=""> Rust &nbsp; <img src="assets/tech/react.svg" width="20" height="20" align="absmiddle" alt=""> React &nbsp; <img src="assets/tech/electron.svg" width="20" height="20" align="absmiddle" alt=""> Electron &nbsp; <img src="assets/tech/aws.svg" width="20" height="20" align="absmiddle" alt=""> AWS &nbsp; <img src="assets/tech/docker.svg" width="20" height="20" align="absmiddle" alt=""> Docker &nbsp; <img src="assets/tech/ffmpeg.svg" width="20" height="20" align="absmiddle" alt=""> FFmpeg<br>
+<img src="assets/tech/rust.svg" width="20" height="20" align="absmiddle" alt=""> Rust &nbsp; <img src="assets/tech/react.svg" width="20" height="20" align="absmiddle" alt=""> React &nbsp; <img src="assets/tech/electron.svg" width="20" height="20" align="absmiddle" alt=""> Electron &nbsp; <img src="assets/tech/aws.svg" width="20" height="20" align="absmiddle" alt=""> AWS &nbsp; <img src="assets/tech/docker.svg" width="20" height="20" align="absmiddle" alt=""> Docker &nbsp; <img src="assets/tech/ffmpeg.svg" width="20" height="20" align="absmiddle" alt=""> FFmpeg<br clear="left">
 <b>Why abandoned:</b> fresh AWS accounts can't run it. GPU instances, rate limits and CDN quotas all need manual approval from AWS support, which can still be denied.
 </td></tr></table>
 
