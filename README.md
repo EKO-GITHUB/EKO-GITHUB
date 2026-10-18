@@ -1,8 +1,5 @@
 ## Hi, I'm Murad and I build stuff
 
-Mostly the stuff I wish already existed: a Pokémon field guide, a media server that runs itself on AWS,
-an audiobook packer, a shoebox for my paperwork. And when that isn't enough, a factory game staffed entirely by cats.
-
 ### Live projects
 
 <table><tr><td>
