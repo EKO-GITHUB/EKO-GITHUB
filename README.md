@@ -55,7 +55,7 @@ Search any TV show to find its worst-rated episodes and why they fell flat.<br>
 <table><tr><td>
 <img src="assets/spacer.png" width="2000" height="1" align="right" alt="">
 <img src="assets/icons/tilemapmaker.png" width="64" height="64" align="left" alt="">
-<b>TileMapMaker</b> · 2024-2026<br>
+<a href="https://www.tilemapmaker.org/"><b>TileMapMaker</b></a> · 2024-2026<br>
 Generates tile-based maps with the Wave Function Collapse algorithm.<br>
 <img src="assets/tech/nextjs.svg" width="20" height="20" align="absmiddle" alt=""> Next.js
 </td></tr></table>
