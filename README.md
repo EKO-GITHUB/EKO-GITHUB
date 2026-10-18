@@ -13,8 +13,8 @@ A factory game where every machine is worked by a cat.<br>
 <table><tr><td>
 <img src="assets/spacer.png" width="2000" height="1" align="right" alt="">
 <img src="assets/icons/pokedb.png" width="64" height="64" align="left" alt="">
-<a href="https://pokedb.dev"><b>PokeDB</b></a> · 2024-2026<br>
-A Pokémon field guide: locations, learnsets and item find-spots for every mainline game.<br>
+<a href="https://pokedb.org"><b>PokeDB</b></a> · 2024-2026<br>
+A Pokémon database: Pokédexes, moves, abilities, items and interactive region maps.<br>
 <img src="assets/tech/nextjs.svg" width="20" height="20" align="absmiddle" alt=""> Next.js &nbsp; <img src="assets/tech/postgres.svg" width="20" height="20" align="absmiddle" alt=""> PostgreSQL &nbsp; <img src="assets/tech/drizzle.svg" width="20" height="20" align="absmiddle" alt=""> Drizzle &nbsp; <img src="assets/tech/aws.svg" width="20" height="20" align="absmiddle" alt=""> AWS &nbsp; <img src="assets/tech/leaflet.svg" width="20" height="20" align="absmiddle" alt=""> Leaflet
 </td></tr></table>
 
