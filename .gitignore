@@ -4,3 +4,6 @@
 *.iws
 *.ipr
 out/
+
+# Claude Code
+CLAUDE.md
