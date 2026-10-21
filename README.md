@@ -23,7 +23,7 @@ A Pokémon database: Pokédexes, moves, abilities, items and interactive region 
 <table><tr><td>
 <img src="assets/spacer.png" width="2000" height="1" align="right" alt="Spacer">
 <img src="assets/icons/shoebox.png" width="64" height="64" align="left" alt="Shoebox logo">
-<a href="https://github.com/EKO-GITHUB/shoebox"><b>Shoebox</b></a> · 2026 · personal desktop tool<br>
+<b>Shoebox</b> · 2026 · personal desktop tool<br>
 Files scanned paperwork into one searchable, deduplicated library with OCR and clean names.<br>
 <img src="assets/tech/java.svg" width="20" height="20" align="absmiddle" alt="Java logo"> Java &nbsp; <img src="assets/tech/react.svg" width="20" height="20" align="absmiddle" alt="React logo"> React &nbsp; <img src="assets/tech/sqlite.svg" width="20" height="20" align="absmiddle" alt="SQLite logo"> SQLite &nbsp; <img src="assets/tech/claude.svg" width="20" height="20" align="absmiddle" alt="Claude logo"> Claude API
 </td></tr></table>
